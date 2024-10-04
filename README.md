@@ -51,7 +51,7 @@ python main.py
 - **main.py:** The main script that automates the email sending process.
 - **.env:** File containing environment variables for the sender's email and password.
 - **requirements.txt:** List of dependencies required to run the project.
-- **logo_image.jpg:** The logo image to be included in the emails.
+- **GDG_LOGO.png:** The logo image to be included in the emails.
 
 ## How It Works
 
