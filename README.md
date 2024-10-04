@@ -1,0 +1,1 @@
+# csv-mail-automator
