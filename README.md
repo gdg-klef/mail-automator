@@ -85,7 +85,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Authors
 - [Ala Gowtham Siva Kumar](https://github.com/gowtham-2oo5)
-- [A Satya Barghav](https://github.com/satyabarghav)
+- [Appari Satya Barghav](https://github.com/satyabarghav)
 
 ## Acknowledgments
 Special thanks to all contributors and the open-source community for their support and resources.
